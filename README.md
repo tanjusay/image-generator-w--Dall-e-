@@ -1,8 +1,6 @@
 # image-generator-w--Dall-e-
 # AI Image Generator using DALL-E OpenAI API
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
 The AI Image Generator using DALL-E OpenAI API is a web-based application that enables users to generate unique and captivating images by leveraging the power of OpenAI's DALL-E model. It provides a seamless and interactive interface to create visually appealing images based on textual prompts.
 
 ## Features
